@@ -70,7 +70,7 @@ fun SoundboardScreen() {
             SoundItem("Wobbly Wiggly", R.raw.wobbly_wiggly),
             SoundItem("John CENAA!", R.raw.john_cena),
             SoundItem("Yo Phone Linging", R.raw.yo_phone_linging),
-            SoundItem("Kim Jong Goon", R.raw.kim.jong.goon),
+            SoundItem("Kim Jong Goon", R.raw.kim_jong_goon),
             SoundItem("Prowler", R.raw.prowler)
         )
     }
