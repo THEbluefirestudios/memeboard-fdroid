@@ -52,7 +52,7 @@ fun SoundboardScreen() {
         listOf(
             SoundItem("Dexter", R.raw.dexter),
             SoundItem("Bruh", R.raw.bruh),
-            SoundItem("Congrats Afghan", R.raw.congratulations),
+            SoundItem("Bazooka", R.raw.rip_my_granny),
             SoundItem("Dial Up", R.raw.dial_up),
             SoundItem("Galaxy Meme", R.raw.galaxy_meme),
             SoundItem("Gay Echo", R.raw.gay_echo),
@@ -60,17 +60,17 @@ fun SoundboardScreen() {
             SoundItem("Lego Breaking", R.raw.lego_breaking),
             SoundItem("FAHHHHH", R.raw.fah),
             SoundItem("Max Verstappen", R.raw.max_verstrappen),
-            SoundItem("Jet2 Holiday", R.raw.jet2holiday),
+            SoundItem("PLZ SPEED I NEED THISS", R.raw.my_mom_is_kinda_homeless),
             SoundItem("SIXX SEVENN", R.raw.six_seven),
             SoundItem("Vine Boom", R.raw.vine_boom),
             SoundItem("Oh My God 1", R.raw.oh_my_god),
-            SoundItem("Oh My God 2", R.raw.oh_my_god2),
+            SoundItem("500 Cigarettes", R.raw.fivehundred_cigarettes),
             SoundItem("GET OUT", R.raw.get_out),
             SoundItem("Wat da HAILLL", R.raw.wait_what_the_hail),
             SoundItem("Wobbly Wiggly", R.raw.wobbly_wiggly),
             SoundItem("John CENAA!", R.raw.john_cena),
             SoundItem("Yo Phone Linging", R.raw.yo_phone_linging),
-            SoundItem("Windows 95", R.raw.windows95),
+            SoundItem("Kim Jong Goon", R.raw.kim.jong.goon),
             SoundItem("Prowler", R.raw.prowler)
         )
     }
