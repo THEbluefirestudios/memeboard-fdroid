@@ -1,3 +1,7 @@
 A soundboard with your favourite goofy ahh meme sound effects. Updated regurlarly
 
+CHANGELOG:
+
+-Added ability to add remove and edit placement of sound buttons, as requested by @qwertfisch on GitHub
+
 For sound effect requests email: memeboardrequests@gmail.com
